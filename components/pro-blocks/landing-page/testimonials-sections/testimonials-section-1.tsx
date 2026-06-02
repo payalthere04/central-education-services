@@ -7,17 +7,17 @@ import { Star, Quote } from "lucide-react";
 const TESTIMONIALS = [
   {
     quote: "I successfully secured my MBBS admission with the help of Central Education Services. Their expert counselling, proper guidance during NEET counselling, and continuous support made the entire admission process smooth and stress-free.",
-    name: "Priya Sharma",
+    name: "Tejaswini Kale",
     course: "MBBS Student",
   },
   {
     quote:"The team provided excellent guidance for my MBA admission journey. From college shortlisting to scholarship assistance, everything was handled professionally and transparently. I am truly grateful for their support.",
-    name: "Rahul Verma",
+    name: "Pooja Jadhav",
     course: "MBA Student",
   },
   {
     quote:"Central Education Services helped me achieve my dream of pursuing B.Sc Nursing. Their personalized counselling, quick responses, and constant encouragement gave me confidence throughout the admission process.",
-    name: "Sneha Patil",
+    name: "Saurabh Deshmukh",
     course: "B.Sc Nursing Student",
   },
 ];

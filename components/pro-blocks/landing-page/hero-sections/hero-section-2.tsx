@@ -25,7 +25,7 @@ export function HeroSection2() {
       <div className="container-padding-x container mx-auto flex flex-col items-center gap-10 lg:flex-row lg:gap-16">
         {/* Left Column - Image */}
         <div className="relative w-full flex-1 order-2 lg:order-1">
-          <div className="relative aspect-[4/5] max-w-md mx-auto lg:max-w-none">
+          <div className="relative aspect-[4/2.95] max-w-md mx-auto lg:max-w-none">
             <Image
               src="/pharmacyimg.png"
               alt="Graduate student celebrating success"
