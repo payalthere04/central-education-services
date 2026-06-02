@@ -57,7 +57,7 @@ export function LogoSection10() {
 
           {/* Right Column - Image */}
           <div className="relative flex-1">
-            <div className="relative aspect-[4/5] max-w-md mx-auto lg:max-w-none">
+            <div className="relative aspect-[4/3.7] max-w-md mx-auto lg:max-w-none">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Central%20education%20services%20Post%2026-ineFWzEWk7vz7ORalfPfofEvMUpgwe.jpg"
                 alt="Student with limitless career opportunities"

@@ -188,7 +188,7 @@ export default function AdmissionsPage() {
         <div className="container-padding-x container mx-auto">
           <div className="flex flex-col gap-10 lg:flex-row lg:items-center lg:gap-16">
             <div className="relative flex-1">
-              <div className="relative aspect-[4/5] max-w-md mx-auto lg:max-w-none overflow-hidden rounded-2xl">
+              <div className="relative aspect-[4/4] max-w-md mx-auto lg:max-w-none overflow-hidden rounded-2xl">
                 <Image
                   src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Central%20Education%20Services%20Post%2024-vEb1GV7fXTYwe9JpftH7fZBZlxYe0A.jpg"
                   alt="Medical admission guidance — Your medical dream starts here"
